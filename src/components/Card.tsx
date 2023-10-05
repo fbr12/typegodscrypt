@@ -1,4 +1,4 @@
-import { Product } from "../App";
+import { Product } from "../Context/ProductContext";
 
 interface CardProps {
   product: Product;
