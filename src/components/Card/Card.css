@@ -1,0 +1,27 @@
+.image{
+    display: flex;
+    justify-content: center;
+}
+.productImg{
+    width: 150px;
+    height: 150px;
+}
+.product{
+    display: flex;
+    flex-direction: column;
+    border: solid white 2px;
+    border-radius: 6px;
+    padding: 1em;
+    width: 15rem;
+    height: auto;
+}
+.info{
+    display: flex;
+    flex-direction: column;
+}
+
+.price{
+    display: flex;
+    flex-direction: column;
+}
+
